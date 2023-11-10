@@ -5,5 +5,5 @@
 
 -🫡 I´m learning c++ and python
 
--🧠As the time pass I have more knoledge 
+-🧠As the time pass I have more knowledge 
 
